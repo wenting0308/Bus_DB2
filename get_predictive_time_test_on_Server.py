@@ -1,4 +1,3 @@
-from webApp.Connect_DB import connect_db
 import pandas as pd
 import numpy as np
 import requests
